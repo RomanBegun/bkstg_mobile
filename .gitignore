@@ -1,0 +1,7 @@
+*.swp
+*.pyc
+.venv
+.idea
+api_testreport.html
+!.gitignore
+!.gitkeep

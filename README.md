@@ -1,0 +1,2 @@
+# bkstg_mobile
+autotest
